@@ -2512,6 +2512,12 @@ fieldset {
 #tiktok-icon {
     background: #000000;
 }
+#twitter-icon{
+    background: #0084ff;
+}
+#snapchat-icon{
+    background: #eeff02;
+}
 
 .detail-list .detail-icon-circle:hover {
     background: rgba(var(--card-color), 0.82)
